@@ -8,7 +8,7 @@ Bootstrap
 PG (PostgreSQL)
 Paquetes y librerías de usuario
 Enlace al repositorio en GitHub
-Repositorio GitHub: https://github.com/Almanabs/certificacion.github.io
+Repositorio GitHub: https://github.com/Almanabs/Certificacion
 
 Instrucciones para iniciar el proyecto
 Descarga el código desde el enlace de GitHub proporcionado.
