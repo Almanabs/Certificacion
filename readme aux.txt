@@ -24,3 +24,12 @@ En la vista principal (home), podrás publicar, comentar y dar Me gusta/No me gu
 Puedes cerrar sesión cuando lo desees.
 Acerca del blog
 El blog está enfocado en noticias relacionadas con el mundo gamer. Aquí podrás encontrar y compartir información actualizada sobre videojuegos, eventos, torneos y más.
+
+
+portafolios hithub:
+https://github.com/Almanabs/Portafolio ---- Acá mezcla varios portafolios luego los fui separando.
+https://github.com/Almanabs/modulo-2-portafolio-
+https://github.com/Almanabs/Modulo-5-portafolio
+https://github.com/Almanabs/modulo-6-portafolio
+https://github.com/Almanabs/modulo-7-portafolio
+https://github.com/Almanabs/modulo-8-portafolio
